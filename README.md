@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshay Jarad  
+                            # 👋 Hi, I’m Akshay Jarad  
 
 🎓 Mechanical Engineer | 💻 Programmer | 🌱 Passionate about Application Development  
 
